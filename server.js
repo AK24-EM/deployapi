@@ -12,7 +12,7 @@ app.get("/api/v1/users" , (re,res)=>{
     res.send(users)
 
 })
-app.listen(8000 , ()=>{
+app.listen(8000 , '0.0.0.0',()=>{
     console.log("server up and running")
 
 })
