@@ -20,6 +20,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.2.1",
-    "cities-count": "git+https://github.com/<your-username>/cities-count.git"
+    "cities-count": "git+https://github.com/AK24-EM/cities-count.git"
   }
 }
