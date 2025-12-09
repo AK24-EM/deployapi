@@ -1,0 +1,24 @@
+{
+  "name": "@aayushkamble2006/deploy-api1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AK24-EM/Deploy-api#readme",
+  "bugs": {
+    "url": "https://github.com/AK24-EM/Deploy-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AK24-EM/Deploy-api.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
